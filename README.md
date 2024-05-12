@@ -1,1 +1,3 @@
 # Village-of-Siddi
+
+Village of Siddi is a captivating simulation game that challenges players to build and sustain a village in harmony with nature, centered around the culture and traditions of the Siddi tribe. In this game, players must balance village development with forest conservation, managing resources, protecting wildlife, and preserving cultural heritage. With features including village building, conservation efforts, cultural preservation, and diplomatic interactions, Village of Siddi offers players an immersive experience that combines strategy, cultural exploration, and environmental awareness. Dive into the rich world of Village of Siddi and embark on a journey of discovery and stewardship in the heart of the forest.
